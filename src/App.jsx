@@ -1,6 +1,6 @@
 import './App.css'
 import { TwitterFollowCard } from './TwitterFollowCard'
-const text = isFollowing? 'Siguiendo' : 'Seguir'
+
 
 export function App (){ 
    return (
